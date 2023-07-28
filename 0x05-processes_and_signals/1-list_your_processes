@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#print all process
+# print all process
 
 ps auxf
