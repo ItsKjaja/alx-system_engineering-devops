@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-nestat -l --program
+netstat -lp
